@@ -1,3 +1,7 @@
+<!-- skillable-metadata:start -->
+[![Edit in Skillable Studio](https://img.shields.io/badge/Edit%20in-Skillable%20Studio-7000ff)](https://labondemand.com/Instructions/Edit/213528?instructionsSetId=342802)
+<!-- skillable-metadata:end -->
+
 # Use case 1: Creating a Lakehouse, ingesting sample data and building a report
 
 **Introduction**
@@ -36,7 +40,7 @@ company from the retail domain completes the following steps.
 
 **Objectives**:
 
-1\. Sign in to Power BI account and initiate a free Microsoft Fabric
+1. [] Sign in to Power BI account and initiate a free Microsoft Fabric
 trial.
 
 2\. Start the Microsoft Fabric (Preview) trial within Power BI.
